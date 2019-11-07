@@ -1,0 +1,2 @@
+# About-Project-Erazer
+It is temporary but currently our main goal is to building a community that decides for themselves which direction Erazer token should go. Future functions or use cases can be built by anyone being a part of the community. The main function right now is the deflationary token model, this means the total supply is decreasing on each transaction. Community owned and operated. With the increase of demand comes the decrease of supply. Hyper deflationary token with a burn rate of 5%
